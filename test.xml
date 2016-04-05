@@ -1,39 +1,330 @@
-<wpt lat="35.5416844" lon="-80.8550356">
-<name>35.5416844,-80.8550356</name>
-<desc>1000 Lowes Blvd, Mooresville, NC 28117, USA</desc>
-</wpt>
-<wpt lat="35.5429996" lon="-80.8560598">
-<name>35.5429996,-80.8560598</name>
-<desc>1000 Lowes Blvd, Mooresville, NC 28117, USA</desc>
-</wpt>
-<wpt lat="35.5338927" lon="-80.8561295">
-<name>35.5338927,-80.8561295</name>
-<desc>264 Langtree Rd, Mooresville, NC 28117, USA</desc>
-</wpt>
-<wpt lat="35.531376" lon="-80.860818">
-<name>35.531376,-80.860818</name>
-<desc>306-312 Langtree Rd, Mooresville, NC 28117, USA</desc>
-</wpt>
-<wpt lat="35.5335522" lon="-80.861561">
-<name>35.5335522,-80.861561</name>
-<desc>Bill Lee Fwy, Mooresville, NC 28117, USA</desc>
-</wpt>
-<wpt lat="35.5634446" lon="-80.8583722">
-<name>35.5634446,-80.8583722</name>
-<desc>I-77, Mooresville, NC 28117, USA</desc>
-</wpt>
-<wpt lat="35.5825561" lon="-80.8568251">
-<name>35.5825561,-80.8568251</name>
-<desc>I-77, Mooresville, NC 28117, USA</desc>
-</wpt>
-<wpt lat="35.5911214" lon="-80.8591631">
-<name>35.5911214,-80.8591631</name>
-<desc>I-77, Mooresville, NC 28117, USA</desc>
-</wpt>
-<wpt lat="35.5938537" lon="-80.8591211">
-<name>35.5938537,-80.8591211</name>
-<desc>391 W Plaza Dr, Mooresville, NC 28117, USA</desc>
-</wpt>
-<wpt lat="35.593284" lon="-80.866262">
-<name>Lowe's Home Improvement, 509 River Hwy, Mooresville, NC 28117</name>
-</wpt>
+<?xml version="1.0"?>
+<gpx creator="GPS Visualizer http://www.gpsvisualizer.com/" version="1.1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+	<wpt lat="35.5416844" lon="-80.8550356">
+  <name>35.5416844,-80.8550356</name>
+  <desc>1000 Lowes Blvd, Mooresville, NC 28117, USA</desc>
+	</wpt>
+	<wpt lat="35.5429996" lon="-80.8560598">
+  <name>35.5429996,-80.8560598</name>
+  <desc>1000 Lowes Blvd, Mooresville, NC 28117, USA</desc>
+	</wpt>
+	<wpt lat="35.5338927" lon="-80.8561295">
+  <name>35.5338927,-80.8561295</name>
+  <desc>264 Langtree Rd, Mooresville, NC 28117, USA</desc>
+	</wpt>
+	<wpt lat="35.531376" lon="-80.860818">
+  <name>35.531376,-80.860818</name>
+  <desc>306-312 Langtree Rd, Mooresville, NC 28117, USA</desc>
+	</wpt>
+	<wpt lat="35.5335522" lon="-80.861561">
+  <name>35.5335522,-80.861561</name>
+  <desc>Bill Lee Fwy, Mooresville, NC 28117, USA</desc>
+	</wpt>
+	<wpt lat="35.5634446" lon="-80.8583722">
+  <name>35.5634446,-80.8583722</name>
+  <desc>I-77, Mooresville, NC 28117, USA</desc>
+	</wpt>
+	<wpt lat="35.5825561" lon="-80.8568251">
+  <name>35.5825561,-80.8568251</name>
+  <desc>I-77, Mooresville, NC 28117, USA</desc>
+	</wpt>
+	<wpt lat="35.5911214" lon="-80.8591631">
+  <name>35.5911214,-80.8591631</name>
+  <desc>I-77, Mooresville, NC 28117, USA</desc>
+	</wpt>
+	<wpt lat="35.5938537" lon="-80.8591211">
+  <name>35.5938537,-80.8591211</name>
+  <desc>391 W Plaza Dr, Mooresville, NC 28117, USA</desc>
+	</wpt>
+	<wpt lat="35.593284" lon="-80.866262">
+  <name>Lowe's Home Improvement, 509 River Hwy, Mooresville, NC 28117</name>
+	</wpt>
+	<trk>
+  <name>1000 Lowes Blvd - 1000 Lowes Blvd</name>
+  <desc>0.1 mi, 0:00</desc>
+  <trkseg>
+	  <trkpt lat="35.54188" lon="-80.85497"></trkpt>
+	  <trkpt lat="35.54192" lon="-80.85505"></trkpt>
+	  <trkpt lat="35.54196" lon="-80.85511"></trkpt>
+	  <trkpt lat="35.54205" lon="-80.85521"></trkpt>
+	  <trkpt lat="35.54205" lon="-80.85521"></trkpt>
+	  <trkpt lat="35.54208" lon="-80.85523"></trkpt>
+	  <trkpt lat="35.54212" lon="-80.85526"></trkpt>
+	  <trkpt lat="35.54239" lon="-80.85551"></trkpt>
+	  <trkpt lat="35.54239" lon="-80.85551"></trkpt>
+	  <trkpt lat="35.543" lon="-80.85606"></trkpt>
+  </trkseg>
+	</trk>
+	<trk>
+  <name>1000 Lowes Blvd - 264 Langtree Rd</name>
+  <desc>0.7 mi, 0:02</desc>
+  <trkseg>
+	  <trkpt lat="35.543" lon="-80.85606"></trkpt>
+	  <trkpt lat="35.54294" lon="-80.85617"></trkpt>
+	  <trkpt lat="35.54285" lon="-80.85632"></trkpt>
+	  <trkpt lat="35.54257" lon="-80.85669"></trkpt>
+	  <trkpt lat="35.54236" lon="-80.85702"></trkpt>
+	  <trkpt lat="35.54227" lon="-80.85725"></trkpt>
+	  <trkpt lat="35.54216" lon="-80.85757"></trkpt>
+	  <trkpt lat="35.54206" lon="-80.8579"></trkpt>
+	  <trkpt lat="35.5419" lon="-80.8581"></trkpt>
+	  <trkpt lat="35.54185" lon="-80.85816"></trkpt>
+	  <trkpt lat="35.54178" lon="-80.8582"></trkpt>
+	  <trkpt lat="35.54172" lon="-80.85823"></trkpt>
+	  <trkpt lat="35.54165" lon="-80.85826"></trkpt>
+	  <trkpt lat="35.54157" lon="-80.85829"></trkpt>
+	  <trkpt lat="35.54145" lon="-80.8583"></trkpt>
+	  <trkpt lat="35.54131" lon="-80.85826"></trkpt>
+	  <trkpt lat="35.5408" lon="-80.85803"></trkpt>
+	  <trkpt lat="35.5408" lon="-80.85803"></trkpt>
+	  <trkpt lat="35.54067" lon="-80.85797"></trkpt>
+	  <trkpt lat="35.54022" lon="-80.8577"></trkpt>
+	  <trkpt lat="35.53952" lon="-80.85721"></trkpt>
+	  <trkpt lat="35.53922" lon="-80.85701"></trkpt>
+	  <trkpt lat="35.53894" lon="-80.85681"></trkpt>
+	  <trkpt lat="35.5387" lon="-80.85665"></trkpt>
+	  <trkpt lat="35.53851" lon="-80.85654"></trkpt>
+	  <trkpt lat="35.53832" lon="-80.85643"></trkpt>
+	  <trkpt lat="35.53733" lon="-80.85591"></trkpt>
+	  <trkpt lat="35.53732" lon="-80.85591"></trkpt>
+	  <trkpt lat="35.53705" lon="-80.85577"></trkpt>
+	  <trkpt lat="35.53671" lon="-80.85559"></trkpt>
+	  <trkpt lat="35.53631" lon="-80.85539"></trkpt>
+	  <trkpt lat="35.53598" lon="-80.85528"></trkpt>
+	  <trkpt lat="35.5358" lon="-80.85525"></trkpt>
+	  <trkpt lat="35.53551" lon="-80.85524"></trkpt>
+	  <trkpt lat="35.53526" lon="-80.85525"></trkpt>
+	  <trkpt lat="35.53513" lon="-80.85527"></trkpt>
+	  <trkpt lat="35.53496" lon="-80.85531"></trkpt>
+	  <trkpt lat="35.53474" lon="-80.85539"></trkpt>
+	  <trkpt lat="35.53461" lon="-80.85545"></trkpt>
+	  <trkpt lat="35.53448" lon="-80.85553"></trkpt>
+	  <trkpt lat="35.53427" lon="-80.8557"></trkpt>
+	  <trkpt lat="35.53389" lon="-80.85613"></trkpt>
+  </trkseg>
+	</trk>
+	<trk>
+  <name>264 Langtree Rd - 306-312 Langtree Rd</name>
+  <desc>0.3 mi, 0:01</desc>
+  <trkseg>
+	  <trkpt lat="35.53389" lon="-80.85613"></trkpt>
+	  <trkpt lat="35.53372" lon="-80.85643"></trkpt>
+	  <trkpt lat="35.53346" lon="-80.85691"></trkpt>
+	  <trkpt lat="35.53316" lon="-80.85747"></trkpt>
+	  <trkpt lat="35.53279" lon="-80.85818"></trkpt>
+	  <trkpt lat="35.53266" lon="-80.85841"></trkpt>
+	  <trkpt lat="35.53212" lon="-80.85938"></trkpt>
+	  <trkpt lat="35.53201" lon="-80.85958"></trkpt>
+	  <trkpt lat="35.53185" lon="-80.85988"></trkpt>
+	  <trkpt lat="35.53138" lon="-80.86082"></trkpt>
+  </trkseg>
+	</trk>
+	<trk>
+  <name>306-312 Langtree Rd - Bill Lee Fwy</name>
+  <desc>0.2 mi, 0:00</desc>
+  <trkseg>
+	  <trkpt lat="35.53138" lon="-80.86082"></trkpt>
+	  <trkpt lat="35.53164" lon="-80.86103"></trkpt>
+	  <trkpt lat="35.5318" lon="-80.86115"></trkpt>
+	  <trkpt lat="35.53191" lon="-80.86122"></trkpt>
+	  <trkpt lat="35.53199" lon="-80.86127"></trkpt>
+	  <trkpt lat="35.53211" lon="-80.86133"></trkpt>
+	  <trkpt lat="35.5322" lon="-80.86138"></trkpt>
+	  <trkpt lat="35.53228" lon="-80.86141"></trkpt>
+	  <trkpt lat="35.53235" lon="-80.86144"></trkpt>
+	  <trkpt lat="35.53241" lon="-80.86146"></trkpt>
+	  <trkpt lat="35.5325" lon="-80.86149"></trkpt>
+	  <trkpt lat="35.53257" lon="-80.86151"></trkpt>
+	  <trkpt lat="35.53264" lon="-80.86152"></trkpt>
+	  <trkpt lat="35.53269" lon="-80.86153"></trkpt>
+	  <trkpt lat="35.53275" lon="-80.86154"></trkpt>
+	  <trkpt lat="35.53281" lon="-80.86155"></trkpt>
+	  <trkpt lat="35.53297" lon="-80.86155"></trkpt>
+	  <trkpt lat="35.53309" lon="-80.86155"></trkpt>
+	  <trkpt lat="35.53324" lon="-80.86154"></trkpt>
+	  <trkpt lat="35.53338" lon="-80.86153"></trkpt>
+	  <trkpt lat="35.53339" lon="-80.86153"></trkpt>
+	  <trkpt lat="35.53355" lon="-80.86156"></trkpt>
+  </trkseg>
+	</trk>
+	<trk>
+  <name>Bill Lee Fwy - I-77</name>
+  <desc>2.1 mi, 0:02</desc>
+  <trkseg>
+	  <trkpt lat="35.53355" lon="-80.86156"></trkpt>
+	  <trkpt lat="35.53493" lon="-80.86123"></trkpt>
+	  <trkpt lat="35.53556" lon="-80.86109"></trkpt>
+	  <trkpt lat="35.53685" lon="-80.86081"></trkpt>
+	  <trkpt lat="35.53806" lon="-80.86054"></trkpt>
+	  <trkpt lat="35.53869" lon="-80.8604"></trkpt>
+	  <trkpt lat="35.5409" lon="-80.85991"></trkpt>
+	  <trkpt lat="35.54232" lon="-80.8596"></trkpt>
+	  <trkpt lat="35.54284" lon="-80.85949"></trkpt>
+	  <trkpt lat="35.5462" lon="-80.85874"></trkpt>
+	  <trkpt lat="35.54669" lon="-80.85863"></trkpt>
+	  <trkpt lat="35.5486" lon="-80.85822"></trkpt>
+	  <trkpt lat="35.54909" lon="-80.85811"></trkpt>
+	  <trkpt lat="35.54954" lon="-80.85802"></trkpt>
+	  <trkpt lat="35.5497" lon="-80.85798"></trkpt>
+	  <trkpt lat="35.54981" lon="-80.85796"></trkpt>
+	  <trkpt lat="35.55004" lon="-80.85792"></trkpt>
+	  <trkpt lat="35.55036" lon="-80.85786"></trkpt>
+	  <trkpt lat="35.55121" lon="-80.85776"></trkpt>
+	  <trkpt lat="35.5516" lon="-80.85773"></trkpt>
+	  <trkpt lat="35.55185" lon="-80.85771"></trkpt>
+	  <trkpt lat="35.55226" lon="-80.85768"></trkpt>
+	  <trkpt lat="35.55251" lon="-80.85767"></trkpt>
+	  <trkpt lat="35.55264" lon="-80.85767"></trkpt>
+	  <trkpt lat="35.55282" lon="-80.85766"></trkpt>
+	  <trkpt lat="35.55312" lon="-80.85766"></trkpt>
+	  <trkpt lat="35.55345" lon="-80.85767"></trkpt>
+	  <trkpt lat="35.55379" lon="-80.85768"></trkpt>
+	  <trkpt lat="35.55427" lon="-80.85771"></trkpt>
+	  <trkpt lat="35.55445" lon="-80.85772"></trkpt>
+	  <trkpt lat="35.55496" lon="-80.85777"></trkpt>
+	  <trkpt lat="35.55572" lon="-80.85787"></trkpt>
+	  <trkpt lat="35.55601" lon="-80.8579"></trkpt>
+	  <trkpt lat="35.55743" lon="-80.85811"></trkpt>
+	  <trkpt lat="35.55878" lon="-80.85831"></trkpt>
+	  <trkpt lat="35.56036" lon="-80.85852"></trkpt>
+	  <trkpt lat="35.56068" lon="-80.85855"></trkpt>
+	  <trkpt lat="35.56075" lon="-80.85856"></trkpt>
+	  <trkpt lat="35.56118" lon="-80.85858"></trkpt>
+	  <trkpt lat="35.56183" lon="-80.8586"></trkpt>
+	  <trkpt lat="35.56244" lon="-80.85859"></trkpt>
+	  <trkpt lat="35.56276" lon="-80.85857"></trkpt>
+	  <trkpt lat="35.56298" lon="-80.85855"></trkpt>
+	  <trkpt lat="35.5633" lon="-80.85851"></trkpt>
+	  <trkpt lat="35.56345" lon="-80.85849"></trkpt>
+  </trkseg>
+	</trk>
+	<trk>
+  <name>I-77 - I-77</name>
+  <desc>1.3 mi, 0:01</desc>
+  <trkseg>
+	  <trkpt lat="35.56345" lon="-80.85849"></trkpt>
+	  <trkpt lat="35.56357" lon="-80.85848"></trkpt>
+	  <trkpt lat="35.56392" lon="-80.85843"></trkpt>
+	  <trkpt lat="35.56423" lon="-80.85837"></trkpt>
+	  <trkpt lat="35.56449" lon="-80.85832"></trkpt>
+	  <trkpt lat="35.56467" lon="-80.85828"></trkpt>
+	  <trkpt lat="35.56489" lon="-80.85823"></trkpt>
+	  <trkpt lat="35.56517" lon="-80.85816"></trkpt>
+	  <trkpt lat="35.56539" lon="-80.8581"></trkpt>
+	  <trkpt lat="35.56746" lon="-80.85752"></trkpt>
+	  <trkpt lat="35.56791" lon="-80.85739"></trkpt>
+	  <trkpt lat="35.57052" lon="-80.85667"></trkpt>
+	  <trkpt lat="35.57151" lon="-80.8564"></trkpt>
+	  <trkpt lat="35.57293" lon="-80.85601"></trkpt>
+	  <trkpt lat="35.57357" lon="-80.85587"></trkpt>
+	  <trkpt lat="35.57386" lon="-80.85582"></trkpt>
+	  <trkpt lat="35.57437" lon="-80.85574"></trkpt>
+	  <trkpt lat="35.57462" lon="-80.85571"></trkpt>
+	  <trkpt lat="35.575" lon="-80.85567"></trkpt>
+	  <trkpt lat="35.57528" lon="-80.85565"></trkpt>
+	  <trkpt lat="35.57551" lon="-80.85563"></trkpt>
+	  <trkpt lat="35.57586" lon="-80.85562"></trkpt>
+	  <trkpt lat="35.57637" lon="-80.85563"></trkpt>
+	  <trkpt lat="35.5768" lon="-80.85564"></trkpt>
+	  <trkpt lat="35.57724" lon="-80.85568"></trkpt>
+	  <trkpt lat="35.57767" lon="-80.85572"></trkpt>
+	  <trkpt lat="35.57789" lon="-80.85575"></trkpt>
+	  <trkpt lat="35.5781" lon="-80.85578"></trkpt>
+	  <trkpt lat="35.57851" lon="-80.85586"></trkpt>
+	  <trkpt lat="35.57891" lon="-80.85594"></trkpt>
+	  <trkpt lat="35.57971" lon="-80.85613"></trkpt>
+	  <trkpt lat="35.57983" lon="-80.85617"></trkpt>
+	  <trkpt lat="35.58001" lon="-80.85622"></trkpt>
+	  <trkpt lat="35.58255" lon="-80.85689"></trkpt>
+  </trkseg>
+	</trk>
+	<trk>
+  <name>I-77 - I-77</name>
+  <desc>0.6 mi, 0:01</desc>
+  <trkseg>
+	  <trkpt lat="35.58255" lon="-80.85689"></trkpt>
+	  <trkpt lat="35.58311" lon="-80.85704"></trkpt>
+	  <trkpt lat="35.58475" lon="-80.85748"></trkpt>
+	  <trkpt lat="35.58569" lon="-80.85772"></trkpt>
+	  <trkpt lat="35.58693" lon="-80.85805"></trkpt>
+	  <trkpt lat="35.58794" lon="-80.85832"></trkpt>
+	  <trkpt lat="35.58984" lon="-80.85882"></trkpt>
+	  <trkpt lat="35.59035" lon="-80.85896"></trkpt>
+	  <trkpt lat="35.59112" lon="-80.85916"></trkpt>
+  </trkseg>
+	</trk>
+	<trk>
+  <name>I-77 - 391 W Plaza Dr</name>
+  <desc>0.2 mi, 0:01</desc>
+  <trkseg>
+	  <trkpt lat="35.59112" lon="-80.85916"></trkpt>
+	  <trkpt lat="35.59119" lon="-80.85914"></trkpt>
+	  <trkpt lat="35.59122" lon="-80.85913"></trkpt>
+	  <trkpt lat="35.59123" lon="-80.85913"></trkpt>
+	  <trkpt lat="35.59124" lon="-80.85913"></trkpt>
+	  <trkpt lat="35.59139" lon="-80.85915"></trkpt>
+	  <trkpt lat="35.59166" lon="-80.85918"></trkpt>
+	  <trkpt lat="35.59176" lon="-80.85918"></trkpt>
+	  <trkpt lat="35.59191" lon="-80.85919"></trkpt>
+	  <trkpt lat="35.59204" lon="-80.85918"></trkpt>
+	  <trkpt lat="35.59215" lon="-80.85917"></trkpt>
+	  <trkpt lat="35.5923" lon="-80.85914"></trkpt>
+	  <trkpt lat="35.59232" lon="-80.85913"></trkpt>
+	  <trkpt lat="35.59241" lon="-80.85912"></trkpt>
+	  <trkpt lat="35.5929" lon="-80.85903"></trkpt>
+	  <trkpt lat="35.59291" lon="-80.85903"></trkpt>
+	  <trkpt lat="35.59306" lon="-80.85901"></trkpt>
+	  <trkpt lat="35.59338" lon="-80.85894"></trkpt>
+	  <trkpt lat="35.59338" lon="-80.85894"></trkpt>
+	  <trkpt lat="35.59382" lon="-80.85887"></trkpt>
+	  <trkpt lat="35.59385" lon="-80.85912"></trkpt>
+  </trkseg>
+	</trk>
+	<trk>
+  <name>391 W Plaza Dr - Lowe's Home Improvement, 509 River Hwy, Mooresville, NC 28117</name>
+  <desc>0.5 mi, 0:02</desc>
+  <trkseg>
+	  <trkpt lat="35.59385" lon="-80.85912"></trkpt>
+	  <trkpt lat="35.59392" lon="-80.85963"></trkpt>
+	  <trkpt lat="35.59394" lon="-80.85985"></trkpt>
+	  <trkpt lat="35.59394" lon="-80.85986"></trkpt>
+	  <trkpt lat="35.59395" lon="-80.85992"></trkpt>
+	  <trkpt lat="35.59395" lon="-80.85993"></trkpt>
+	  <trkpt lat="35.59396" lon="-80.86005"></trkpt>
+	  <trkpt lat="35.59397" lon="-80.86008"></trkpt>
+	  <trkpt lat="35.594" lon="-80.86032"></trkpt>
+	  <trkpt lat="35.59409" lon="-80.86094"></trkpt>
+	  <trkpt lat="35.59412" lon="-80.86119"></trkpt>
+	  <trkpt lat="35.59415" lon="-80.86148"></trkpt>
+	  <trkpt lat="35.59417" lon="-80.86161"></trkpt>
+	  <trkpt lat="35.59429" lon="-80.86267"></trkpt>
+	  <trkpt lat="35.59439" lon="-80.8633"></trkpt>
+	  <trkpt lat="35.5945" lon="-80.86421"></trkpt>
+	  <trkpt lat="35.59456" lon="-80.86464"></trkpt>
+	  <trkpt lat="35.5946" lon="-80.86502"></trkpt>
+	  <trkpt lat="35.5946" lon="-80.86502"></trkpt>
+	  <trkpt lat="35.59431" lon="-80.86506"></trkpt>
+	  <trkpt lat="35.59397" lon="-80.86514"></trkpt>
+	  <trkpt lat="35.59386" lon="-80.86517"></trkpt>
+	  <trkpt lat="35.59381" lon="-80.86517"></trkpt>
+	  <trkpt lat="35.59379" lon="-80.86518"></trkpt>
+	  <trkpt lat="35.59378" lon="-80.86518"></trkpt>
+	  <trkpt lat="35.59375" lon="-80.86521"></trkpt>
+	  <trkpt lat="35.59373" lon="-80.86522"></trkpt>
+	  <trkpt lat="35.59365" lon="-80.86528"></trkpt>
+	  <trkpt lat="35.59365" lon="-80.86528"></trkpt>
+	  <trkpt lat="35.59362" lon="-80.86523"></trkpt>
+	  <trkpt lat="35.59362" lon="-80.86523"></trkpt>
+	  <trkpt lat="35.59355" lon="-80.86527"></trkpt>
+	  <trkpt lat="35.59348" lon="-80.86529"></trkpt>
+	  <trkpt lat="35.59332" lon="-80.86534"></trkpt>
+	  <trkpt lat="35.59332" lon="-80.86534"></trkpt>
+	  <trkpt lat="35.59334" lon="-80.86552"></trkpt>
+	  <trkpt lat="35.59336" lon="-80.86563"></trkpt>
+	  <trkpt lat="35.59335" lon="-80.86573"></trkpt>
+	  <trkpt lat="35.59333" lon="-80.86582"></trkpt>
+	  <trkpt lat="35.59336" lon="-80.86596"></trkpt>
+	  <trkpt lat="35.59339" lon="-80.86618"></trkpt>
+  </trkseg>
+	</trk>
+</gpx>

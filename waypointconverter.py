@@ -2,10 +2,11 @@
 
 filename = "test.xml"
 
-with open(filename) as fn:
-    content = fn.readlines()
+import xml.etree.ElementTree as ET
+tree = ET.parse(filename)
+root = tree.getroot()
 
-print(content)
+namespace = {"ns" : "http://www.topografix.com/GPX/1/1"}
 
-for count in range(0,len(content)):
-    print(count)
+for waypoint in root.findall('ns:wpt', namespace):
+    print waypoint.attrib
