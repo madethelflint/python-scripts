@@ -20,7 +20,7 @@ for waypoint in root.findall("ns:wpt", namespace):
     print(lat)
     print(lon)
 
-    pointstring = "{{ location : {{ latitude : {0}, longitude : {1} }}, \n options: {{speed:8, altitude:200, horizontalAccuracy:10, verticalAccuracy:15}} }}"
+    pointstring = "{{ location : {{ latitude : {0}, longitude : {1} }}, \n options: {{speed:8, altitude:200, horizontalAccuracy:10, verticalAccuracy:15}} }},"
     formattedPoint = pointstring.format(lat, lon)
     print formattedPoint
 
